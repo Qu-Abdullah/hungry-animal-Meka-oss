@@ -148,6 +148,7 @@
         stop();
     }    
     
+    //Makes Elephant eat Apple
     public void eat()
     {
         MyWorld world = (MyWorld) getWorld();
